@@ -1,0 +1,15 @@
+text-blue{
+    color: black;
+    text-align: justify;
+    }
+    .text-amarillo{
+    color: yellow;
+    text-align: justify;
+    text-decoration: underline;
+    }
+    .text-morado{
+    color: rgba(247, 0, 255, 0.884);
+    text-align: justify;
+    text-decoration: underline;
+    }
+    

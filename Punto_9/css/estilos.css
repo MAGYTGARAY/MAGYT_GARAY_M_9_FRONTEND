@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+    background-color: yellow;
+    width: 100%;
+    }
+    
+    td {
+    border: 1px dotted black;
+    padding: 10px;
+    }
+    
+    tr:last-child td {
+    border-bottom: 1px solid red;
+    }
+    
